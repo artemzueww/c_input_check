@@ -18,7 +18,7 @@ int main(void) {
     int a;
 
     if (!input_check(&a)) {
-        printf("n/a");
+        printf("n/a\n");
         return 0;
     }
 
